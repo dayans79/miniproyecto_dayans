@@ -23,8 +23,7 @@ class App extends BaseConfig
 	 *
 	 * @var string
 	 */
-	public $baseURL = 'http://localhost:8080/';
-
+	public $baseURL = 'http://cerounodigital.com/btc04/dayans/codeingniter/public/';
 	/**
 	 * --------------------------------------------------------------------------
 	 * Index File
